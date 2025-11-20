@@ -39,5 +39,6 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - HTV-X
 - Phantom Express spaceplane
 - OKB-52 - LKS *(requested by haumea on discord)*
+- Nyx space capsule
 
 (Bolded ones have more priority)
