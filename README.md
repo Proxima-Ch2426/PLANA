@@ -1,5 +1,5 @@
 # Proxima Launchers
-A repository for various launch vehicles, whether it be conceptual, retired, active, or in development.
+A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
 # Mods that are...
 ### ...required:
