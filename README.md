@@ -25,20 +25,16 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do DM me on discord or some otherway lol.
 
 ## (Possible) Future additions:
-- **MD X-33**
+***(Does not include those listed in the roadmap)***
 - Rockwell X-33
 - Kistler 1
-- **Relativity Terran R (old design)**
 - Falcon XX
-- **Lockheed Starclipper**
 - Innospace Hanbit
 - **MACHETE** *(requested by PXTSERYU on discord)*
-- **Arc Inversion**
 - Boeing's HTHL RASV concept *(requested by Jcera on discord)*
-- **Dawn Mk-III**
-- HTV-X
+- **HTV-X**
 - Phantom Express spaceplane
-- OKB-52 - LKS *(requested by haumea on discord)*
-- Nyx space capsule
+- **OKB-52 - LKS** *(requested by haumea on discord)*
+- **Nyx space capsule**
 
 (Bolded ones have more priority)
