@@ -1,6 +1,8 @@
 # P.L.A.N.A. (*P*roxi's *La*unchers A*n*d *A*ircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
+<img src="https://i.imgur.com/BY3WdQx.jpeg" width="700" >
+
 # Mods that are...
 ### ...required:
 - B9PartSwitch
