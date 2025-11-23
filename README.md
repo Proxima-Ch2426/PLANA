@@ -1,5 +1,4 @@
-# P.L.A.N.A.
-## *P*roxi's *La*unchers A*n*d *A*ircraft
+# P.L.A.N.A. (*P*roxi's *La*unchers A*n*d *A*ircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
 # Mods that are...
