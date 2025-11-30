@@ -10,15 +10,13 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - ModuleManager
 - KSPWheel
 
-### ...extremely recommended:
-- Atmosphere Autopilot
-- Ferram Aerospace Research
-
 ### ...recommended:
 - Community Resource Pack
 - Deferred
 - Resurfaced
 - Waterfall
+- Atmosphere Autopilot
+- Ferram Aerospace Research
 
 ### ...compatible:
 - RO/RP1 with RSS
