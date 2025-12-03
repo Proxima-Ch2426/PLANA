@@ -13,7 +13,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 ### ...recommended:
 - Community Resource Pack
 - Deferred
-- Resurfaced
+- Resurfaced + Shabby
 - Waterfall
 - Atmosphere Autopilot
 - Ferram Aerospace Research
