@@ -17,6 +17,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - Waterfall
 - Atmosphere Autopilot
 - Ferram Aerospace Research
+- ASET
 
 ### ...compatible:
 - RO/RP1 with RSS
