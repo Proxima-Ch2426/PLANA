@@ -29,13 +29,7 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 ***(Does not include those listed in the roadmap)***
 - Rockwell X-33
 - Kistler 1
-- Falcon XX
-- Innospace Hanbit
-- **MACHETE** *(requested by PXTSERYU on discord)*
-- **Boeing's HTHL RASV concept** *(requested by Jcera on discord)*
-- **HTV-X**
 - Phantom Express spaceplane
-- **OKB-52 - LKS** *(requested by haumea on discord)*
 - **Nyx space capsule**
 
 (Bolded ones have more priority)
