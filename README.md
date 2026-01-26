@@ -30,6 +30,4 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - Rockwell X-33
 - Kistler 1
 - Phantom Express spaceplane
-- **Nyx space capsule**
-
-(Bolded ones have more priority)
+- Nyx space capsule
