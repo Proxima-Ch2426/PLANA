@@ -9,6 +9,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - DeployableEngines
 - ModuleManager
 - KSPWheel
+- ModuleDepthMask
 
 ### ...recommended:
 - Community Resource Pack
