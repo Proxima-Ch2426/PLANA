@@ -33,3 +33,4 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - Phantom Express spaceplane
 - Nyx space capsule
 - HOTOL
+- X-34 A and B
