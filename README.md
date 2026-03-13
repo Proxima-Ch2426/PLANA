@@ -1,7 +1,7 @@
 # P.L.A.N.A. (Proxi's Launchers And Aircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
-<img src="https://i.imgur.com/cgSFTRF.jpeg" width="700" >
+<img src="https://i.imgur.com/P1EBSDS.png" width="700" >
 
 # Mods that are...
 ### ...required:
