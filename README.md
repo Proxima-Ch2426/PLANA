@@ -1,7 +1,7 @@
 # P.L.A.N.A. (Proxi's Launchers And Aircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
-<img src="https://i.imgur.com/YHU7mIB.jpeg" width="700" >
+<img src="https://i.imgur.com/P1EBSDS.png" width="700" >
 
 # Mods that are...
 ### ...required:
@@ -32,3 +32,8 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - Kistler 1
 - Phantom Express spaceplane
 - Nyx space capsule
+- Nyx space capsule
+- HOTOL
+- X-34 A and B
+- X-38
+- MAKS
