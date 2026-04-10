@@ -13,6 +13,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 
 ### ...recommended:
 - Community Resource Pack
+- Community Category Kit
 - Deferred
 - Resurfaced + Shabby
 - Waterfall
@@ -21,10 +22,10 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - ASET
 
 ### ...compatible:
-- RO/RP1 with RSS
+- RO/RP1
 
 # Mod progress:
-Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do DM me on discord or some otherway lol.
+Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane, you can do so in the [forums](https://forum.kerbalspaceprogram.com/topic/229246-112x-proxis-launchers-and-aircraft-plana-conceptual-active-upcoming-vehicles-and-more-march-13-2026-v122).
 
 ## (Possible) Future additions:
 ***(Does not include those listed in the roadmap)***
