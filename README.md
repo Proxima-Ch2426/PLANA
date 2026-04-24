@@ -1,7 +1,7 @@
 # P.L.A.N.A. (Proxi's Launchers And Aircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
-<img src="https://i.imgur.com/P1EBSDS.png" width="700" >
+<img src="https://i.imgur.com/JPoAfiP.png" width="700" >
 
 # Mods that are...
 ### ...required:
@@ -13,6 +13,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 
 ### ...recommended:
 - Community Resource Pack
+- Community Category Kit
 - Deferred
 - Resurfaced + Shabby
 - Waterfall
@@ -21,7 +22,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - ASET
 
 ### ...compatible:
-- RO/RP1 with RSS
+- RO/RP1
 
 # Mod progress:
 Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do DM me on discord or some otherway lol.
