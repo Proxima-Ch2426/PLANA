@@ -30,12 +30,11 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 ## (Possible) Future additions:
 ***(Does not include those listed in the roadmap)***
 - JAXA Epsilon
-- Rockwell X-33
 - Kistler 1
-- Phantom Express spaceplane
-- Nyx space capsule
 - Nyx space capsule
 - HOTOL
 - X-34 A and B
 - X-38
+- HL-20
 - MAKS
+- Arc inversion
