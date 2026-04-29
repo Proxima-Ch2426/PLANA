@@ -12,7 +12,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - ModuleDepthMask
 
 ### ...recommended:
-- Community Resource Pack
+- Cryo Tanks
 - Community Category Kit
 - Deferred
 - Resurfaced + Shabby
