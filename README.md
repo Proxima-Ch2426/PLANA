@@ -1,7 +1,7 @@
 # P.L.A.N.A. (Proxi's Launchers And Aircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
-<img src="https://i.imgur.com/JPoAfiP.png" width="700" >
+<img src="https://i.imgur.com/tXcUpgg.jpeg" width="700" >
 
 # Mods that are...
 ### ...required:
@@ -12,7 +12,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - ModuleDepthMask
 
 ### ...recommended:
-- Community Resource Pack
+- Cryo Tanks
 - Community Category Kit
 - Deferred
 - Resurfaced + Shabby
@@ -25,7 +25,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - RO/RP1
 
 # Mod progress:
-Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do DM me on discord or some otherway lol.
+Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do let me know on the KSP forums!
 
 ## (Possible) Future additions:
 ***(Does not include those listed in the roadmap)***
@@ -36,3 +36,4 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - X-38
 - MAKS
 - Space Rider
+- Arc Inversion
