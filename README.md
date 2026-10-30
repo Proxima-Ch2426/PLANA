@@ -1,7 +1,9 @@
 # P.L.A.N.A. (Proxi's Launchers And Aircraft)
 A KSP part mod for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
-<img src="https://i.imgur.com/ImSZsND.jpeg" width="700" >
+### ⚠️ ***Author of this mod is no longer producing new updates! Mod maintenance will be ending mid 2027!*** ⚠️ <br><br>
+
+<img src="https://i.imgur.com/JX8iawz.png" width="700" >
 
 # Mods that are...
 ### ...required:
@@ -14,6 +16,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 ### ...recommended:
 - Cryo Tanks
 - Community Category Kit
+- Community Tech Tree
 - Deferred
 - Resurfaced + Shabby
 - Waterfall
@@ -21,6 +24,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - Ferram Aerospace Research
 - ASET
 - VAB Organiser
+
 
 # Mod progress:
 Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do let me know on the KSP forums!
