@@ -18,6 +18,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 - Community Category Kit
 - Community Tech Tree
 - Deferred
+- Kerbal Reusability Expansion
 - Resurfaced + Shabby
 - Waterfall
 - Atmosphere Autopilot
@@ -27,7 +28,7 @@ A KSP part mod for various launch vehicles, whether it be conceptual, retired, a
 
 
 # Mod progress:
-Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do let me know on the KSP forums!
+Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. I will no longer be taking suggestions!
 
 ## (Possible) Future additions:
 ***(Does not include those listed in the roadmap)***
